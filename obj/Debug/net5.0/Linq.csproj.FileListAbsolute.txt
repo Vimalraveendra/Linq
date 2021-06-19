@@ -1,0 +1,15 @@
+/Users/vimalraveendran/Desktop/C#/Linq/bin/Debug/net5.0/Linq.deps.json
+/Users/vimalraveendran/Desktop/C#/Linq/bin/Debug/net5.0/Linq.runtimeconfig.json
+/Users/vimalraveendran/Desktop/C#/Linq/bin/Debug/net5.0/Linq.runtimeconfig.dev.json
+/Users/vimalraveendran/Desktop/C#/Linq/bin/Debug/net5.0/Linq.dll
+/Users/vimalraveendran/Desktop/C#/Linq/bin/Debug/net5.0/ref/Linq.dll
+/Users/vimalraveendran/Desktop/C#/Linq/bin/Debug/net5.0/Linq.pdb
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.csproj.AssemblyReference.cache
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.AssemblyInfoInputs.cache
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.AssemblyInfo.cs
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.csproj.CoreCompileInputs.cache
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.dll
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/ref/Linq.dll
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.pdb
+/Users/vimalraveendran/Desktop/C#/Linq/obj/Debug/net5.0/Linq.genruntimeconfig.cache
